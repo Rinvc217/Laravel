@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a70be763-8e58-4d31-a66d-b32c6f31e420" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/HTMLand Script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyListText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RadomNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TextFormPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textupload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/Laravel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapdocsothanhchu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh1ungdunghienthitime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2chcnangdangnhap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3danhsachkhachhang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4ungdungtudien.php" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TextFormPost.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="197">
+              <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Triển khai lớp List đơn giản/ArrayText.php" />
+        <option value="$PROJECT_DIR$/trien khai ClassArayList/ArrayText.php" />
+        <option value="$PROJECT_DIR$/trien khai ClassArayList/ArrayList.php" />
+        <option value="$PROJECT_DIR$/NodeLinkedList/Node.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BT-ArrayList.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BT-MyList.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BT-MyListText.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyListText.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyList.php" />
+        <option value="$PROJECT_DIR$/NodeLinkedList/LinkList.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTNode.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php" />
+        <option value="$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php" />
+        <option value="D:/game tham khao/textadd-edit.html" />
+        <option value="$PROJECT_DIR$/NodeLinkedList/LinkedListMain.php" />
+        <option value="$PROJECT_DIR$/randomNumber.js" />
+        <option value="$PROJECT_DIR$/abcd.html" />
+        <option value="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" />
+        <option value="$PROJECT_DIR$/TextFormPost.php" />
+        <option value="$PROJECT_DIR$/RadomNumber.html" />
+        <option value="$PROJECT_DIR$/textupload.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-14" />
+    <option name="y" value="15" />
+    <option name="width" value="674" />
+    <option name="height" value="687" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a70be763-8e58-4d31-a66d-b32c6f31e420" name="Default Changelist" comment="" />
+      <created>1555467451262</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555467451262</updated>
+      <workItem from="1555467452778" duration="99000" />
+      <workItem from="1555470496972" duration="168000" />
+      <workItem from="1555470706851" duration="380000" />
+      <workItem from="1555471201906" duration="16190000" />
+      <workItem from="1555550103690" duration="733000" />
+      <workItem from="1555572545180" duration="1026000" />
+      <workItem from="1555637459530" duration="908000" />
+      <workItem from="1556162485974" duration="17553000" />
+      <workItem from="1556243763039" duration="7052000" />
+      <workItem from="1556423772024" duration="708000" />
+      <workItem from="1556846416943" duration="1007000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="45824000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24281392" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23146747" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/trien khai ClassArayList/ArrayText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeLinkedList/Node.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTNode.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="26" selection-start-line="30" selection-start-column="26" selection-end-line="30" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="5" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BT.Triển khai các phương thức của ArrayList/BTMyListText.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/trien khai ClassArayList/ArrayList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="78" column="58" selection-start-line="78" selection-start-column="58" selection-end-line="78" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Refactoring/FizzBuzzMain.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeLinkedList/LinkedListMain.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NodeLinkedList/LinkList.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="21" column="26" selection-start-line="21" selection-start-column="26" selection-end-line="21" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/game tham khao/textadd-edit.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="25" column="20" lean-forward="true" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/abcd.html" />
+    <entry file="file://$PROJECT_DIR$/textupload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="29" selection-start-line="33" selection-start-column="29" selection-end-line="33" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/randomNumber.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="19" lean-forward="true" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RadomNumber.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#h3#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TextFormPost.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

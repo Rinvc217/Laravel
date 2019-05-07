@@ -1,13 +1,13 @@
 <?php
-include_once('classCircleBT_Cylinder.php');
-$objCircle1 = new Circle1("blue",4);
-$objCircle1->toString();
+include_once ('classCircle.php');
+include_once('Cylinder.php');
+
+$objCircle = new Circle1("blue",6);
+$objCircle->toString();
 echo "<br/>";
 
-
-$objCylinder = new Cylinder("red",3,4);
-
-$objCylinder->toString();
+$objCylinder = new Cylinder("Xanh",5,7);
+$objCylinder->toString1();
 
 //echo "ban kinh hinh tron la:" . $objCylinder->toString();
 ?>

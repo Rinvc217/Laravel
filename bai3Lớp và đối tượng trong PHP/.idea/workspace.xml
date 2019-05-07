@@ -1,7 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="01b5f0f4-048b-4ae6-990d-b02f11054f3f" name="Default Changelist" comment="" />
+    <list default="true" id="01b5f0f4-048b-4ae6-990d-b02f11054f3f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/chuyndoitien.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/indextext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/maytinh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/songuyento.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/vehinh.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/welcome.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/BtSumDuogcheo.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt5Tinh tổng các số ở 1 cột/SumNumber.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textfile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/HTMLand Script.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyListText.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTNode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/RadomNumber.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/TextFormPost.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/randomNumber.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai6 Array List/textupload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/Laravel" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitapdocsothanhchu.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh1ungdunghienthitime.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh2chcnangdangnhap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh3danhsachkhachhang.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh4ungdungtudien.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,15 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt2phuonhtrinhbac2/class+idexphuongtrinhbac2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt3StopWatch/classtopwatch.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -31,17 +71,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt4Nháp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt4Nháp/idex1voipublic.php">
-          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+              <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+              <folding>
+                <element signature="e#72#114#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +90,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bt4Nháp/idex1voipublic.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bt4Nháp/class_lib.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt3StopWatch/idexstopwatch.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -64,29 +112,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XaydunglopFan/classFan.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Fan.php">
+        <entry file="file://$PROJECT_DIR$/bt2phuonhtrinhbac2/class+idexphuongtrinhbac2.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/classhinhchunhat.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+            <state relative-caret-position="102">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -94,8 +124,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/indexhinhchunhat.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            <state relative-caret-position="289">
+              <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/classhinhchunhat.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -108,6 +147,9 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -132,6 +174,9 @@
         <option value="$PROJECT_DIR$/Fan.php" />
         <option value="$PROJECT_DIR$/bt3StopWatch/classtopwatch.php" />
         <option value="$PROJECT_DIR$/XaydunglopFan/classFan.php" />
+        <option value="$PROJECT_DIR$/textfile.php" />
+        <option value="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" />
+        <option value="$PROJECT_DIR$/bt1hinhchunhat/indexhinhchunhat.php" />
       </list>
     </option>
   </component>
@@ -139,22 +184,59 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="610" />
-    <option name="width" value="753" />
-    <option name="height" value="735" />
+    <option name="x" value="-245" />
+    <option name="y" value="55" />
+    <option name="width" value="865" />
+    <option name="height" value="629" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt1hinhchunhat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt2phuonhtrinhbac2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt3StopWatch" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt4Nháp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai3Lớp và đối tượng trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai3Lớp và đối tượng trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="XaydunglopFan" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai4Inheritance" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -193,16 +275,19 @@
       <workItem from="1554781712795" duration="2472000" />
       <workItem from="1554793110730" duration="5947000" />
       <workItem from="1554861803117" duration="29000" />
+      <workItem from="1557115983911" duration="11670000" />
+      <workItem from="1557191592460" duration="315000" />
+      <workItem from="1557192319085" duration="495000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64693000" />
+    <option name="totallyTimeSpent" value="77173000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15658094" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1633888" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -260,48 +345,36 @@
     <entry file="file://$PROJECT_DIR$/class_lib.php" />
     <entry file="file://$PROJECT_DIR$/nháp4.php" />
     <entry file="file://$PROJECT_DIR$/class1voipublic.php" />
-    <entry file="file://$PROJECT_DIR$/bt4Nháp/nháp.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Nháp/class_lib.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Nháp/nháp4.php">
+    <entry file="file://$PROJECT_DIR$/Fan.php" />
+    <entry file="file://$PROJECT_DIR$/../Fan.php" />
+    <entry file="file://$PROJECT_DIR$/XaydunglopFan/classFan.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        <state relative-caret-position="1224">
+          <caret line="72" column="5" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/textfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="21" column="29" lean-forward="true" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt3StopWatch/Jsvascript.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Fan.php" />
-    <entry file="file://$PROJECT_DIR$/bt2phuonhtrinhbac2/class+idexphuongtrinhbac2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bt3StopWatch/classtopwatch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Nháp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Nháp/idex1voipublic.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -312,6 +385,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Nháp/nháp.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Nháp/nháp4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Nháp/idex1voipublic.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Nháp/class_lib.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/bt3StopWatch/idexstopwatch.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -319,31 +412,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Fan.php">
+    <entry file="file://$PROJECT_DIR$/bt4Nháp/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="18" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+        <state relative-caret-position="187">
+          <caret line="11" column="50" lean-forward="true" selection-start-line="11" selection-start-column="50" selection-end-line="11" selection-end-column="50" />
+          <folding>
+            <element signature="e#72#114#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/classhinhchunhat.php">
+    <entry file="file://$PROJECT_DIR$/bt2phuonhtrinhbac2/class+idexphuongtrinhbac2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        <state relative-caret-position="102">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/indexhinhchunhat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        <state relative-caret-position="289">
+          <caret line="17" column="59" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XaydunglopFan/classFan.php">
+    <entry file="file://$PROJECT_DIR$/bt1hinhchunhat/classhinhchunhat.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="67" column="31" selection-start-line="67" selection-start-column="31" selection-end-line="67" selection-end-column="31" />
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>

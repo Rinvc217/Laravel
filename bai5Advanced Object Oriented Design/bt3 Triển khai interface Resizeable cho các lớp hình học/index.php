@@ -34,7 +34,7 @@ echo '<br />';'<br />';'<br />';
 $square = new Square('Square 01', 5 , 5, 5);
 echo 'Square area: ' . $square->calculateArea() . '<br />';
 echo 'Square perimeter: ' . $square->calculatePerimeter() . '<br />';
-echo 'Hình tam giác sau khi thay đổi kích thước thành'.' '. $percent .' '. 'là :' . $square->resize($percent) .'%'. '<br />';
+echo 'Hình sau khi thay đổi kích thước thành'.' '. $percent .' '. 'là :' . $square->resize($percent) .'%'. '<br />';
 
 
 

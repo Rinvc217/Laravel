@@ -13,7 +13,7 @@ class Triangle extends Shape {
         $this->side1 = $size1;
         $this->side2 = $size2;
         $this->side3 = $size3;
-        $this->color = 'red';
+        $this->color = 'Blue';
     }
     public function setColor($color) {
         $this->color = $color;
@@ -29,7 +29,7 @@ class Triangle extends Shape {
         return round(sqrt($p * ($p - $this->side1) * ($p - $this->side2) * ($p - $this->side3)),3);
     }
     public function toString() {
-        return "Color is $this->color, Square is ".$this->getArea().", Perimeter is ".$this->getPerimeter();
+        return "Tam giác có màu là: $this->color,có Diện tích là: ".$this->getArea().", và chu vi là ".$this->getPerimeter();
     }
 }
 ?>

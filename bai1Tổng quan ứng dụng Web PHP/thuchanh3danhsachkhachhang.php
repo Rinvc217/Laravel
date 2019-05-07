@@ -15,6 +15,7 @@
 <body>
 <table border="0">
     <caption><h1>Danh sách khách hàng</h1></caption>
+    <caption><h3><?php echo date('y-m-n l:m:s'); ?></h3></caption>
     <tr>
         <th>STT</th>
         <th>Tên</th>

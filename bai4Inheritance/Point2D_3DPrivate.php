@@ -48,9 +48,7 @@ class Point3D extends Point2D
     public function getXYZ(){
         return parent::getX()." ".parent::getY()." ".$this->z;
     }
-    public function setXYZ($__x, $__y, $__z){
-        return $this->x = $__x.$this->y = $__y.$this->z = $__z;
-    }
+
     public function toString(){
         echo "(x y z) = ";
     }

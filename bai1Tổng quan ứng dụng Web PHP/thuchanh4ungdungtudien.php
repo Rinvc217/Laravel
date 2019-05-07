@@ -37,6 +37,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $flag = 0;
     foreach($khoitu as $key => $value) {
         if($key == $searchword){
+
             echo "Từ: " . $key . ". <br/>Nghĩa của từ: " . $value;
             echo "<br/>";
             $flag = 1;

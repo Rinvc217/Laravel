@@ -1,7 +1,8 @@
 <?php
-include_once ('btclassPoint.php');
-    class btclassMoveablePoint extends Point {
-        public function btclassMoveablePoint($x,$y,$xSpeed,$ySpeed){
+include_once('classPoint.php');
+
+    class MoveablePoint extends Point {
+        public function MoveablePoint($x,$y,$xSpeed,$ySpeed){
             parent::Point($x,$y);
             $this->xSpeed=$xSpeed;
             $this->ySpeed=$ySpeed;

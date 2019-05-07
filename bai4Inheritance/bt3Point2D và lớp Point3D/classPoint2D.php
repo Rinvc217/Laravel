@@ -1,5 +1,7 @@
 <?php
-class Point2D {
+
+class Point2D
+{
     public $x;
     public $y;
     public function Point2D($x,$y){
@@ -27,7 +29,7 @@ class Point2D {
         return $arrayXY;
     }
     public function toString(){
-        echo "giá trị X của Point2D là:" . $this->x . "<br/>" . "giá trị X của Point2D là:" . $this->y. "<br/>";
+        echo "giá trị X của Point2D là:" . $this->x . "<br/>" . "giá trị Y của Point2D là:" . $this->y. "<br/>";
     }
 }
 ?>
