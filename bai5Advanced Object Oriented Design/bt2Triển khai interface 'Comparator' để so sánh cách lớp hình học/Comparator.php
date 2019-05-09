@@ -1,6 +1,7 @@
 <?php
+
 interface Comparator {
-    function compare($circleOne, $circleTwo);
+    function compare($circleOne, $circleTow);
 
 }
 ?>

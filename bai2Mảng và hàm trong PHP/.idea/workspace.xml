@@ -2,54 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5641b73-9356-41ec-8200-48a3c87a2086" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/chuyndoitien.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/indextext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/maytinh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/songuyento.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/vehinh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/welcome.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BtSumDuogcheo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bt5Tinh tổng các số ở 1 cột/SumNumber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btTrang đăng ký người dùng/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/textfile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/HTMLand Script.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyListText.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/RadomNumber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/TextFormPost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/randomNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/textupload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xóa phần tử khỏi mảng/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/Interface_Abstracs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/classShape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/testClassShape/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai4Inheritance/textAbstTrack/GeometricObj.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GopMang.php" beforeDir="false" afterPath="$PROJECT_DIR$/GopMang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/arraymin.php" beforeDir="false" afterPath="$PROJECT_DIR$/arraymin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" beforeDir="false" afterPath="$PROJECT_DIR$/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tổng các số ở 1 cột xác định.php" beforeDir="false" afterPath="$PROJECT_DIR$/tổng các số ở 1 cột xác định.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/xóa phần tử khỏi mảng.php" beforeDir="false" afterPath="$PROJECT_DIR$/xóa phần tử khỏi mảng.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php" beforeDir="false" afterPath="$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/classTriangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/Thiết kế và triển khai lớp Triangle/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/indexShape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/indexShape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/square.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt1các đối tượng hình học/square.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt3Point2D và lớp Point3D/classPoint3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt3Point2D và lớp Point3D/classPoint3D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4Inheritance/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4Inheritance/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/Laravel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitapdocsothanhchu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh1ungdunghienthitime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh2chcnangdangnhap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh3danhsachkhachhang.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh4ungdungtudien.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt2Triển khai interface 'Comparator' để so sánh cách lớp hình học/CircleComparator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt2Triển khai interface 'Comparator' để so sánh cách lớp hình học/CircleComparator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt2Triển khai interface 'Comparator' để so sánh cách lớp hình học/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt2Triển khai interface 'Comparator' để so sánh cách lớp hình học/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -59,79 +36,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xóa phần tử khỏi mảng.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GopMang.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="34" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/arraymin.php">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="731">
-              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/btTrang đăng ký người dùng/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt5Tinh tổng các số ở 1 cột/SumNumber.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BtSumDuogcheo.php">
+        <entry file="file://$PROJECT_DIR$/bt3Tìm giá trị nhỏ nhất trong mảng sử dụng phương thức/baitaptimgiatrinhonhatmangbangphuongthuc.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+              <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -180,6 +89,8 @@
         <option value="$PROJECT_DIR$/text.php" />
         <option value="$PROJECT_DIR$/bt5Tinh tổng các số ở 1 cột/SumNumber.php" />
         <option value="$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php" />
+        <option value="$PROJECT_DIR$/xóa phần tử khỏi mảng/xoa_phan_tu.php" />
+        <option value="$PROJECT_DIR$/xóa phần tử khỏi mảng/index.php" />
         <option value="$PROJECT_DIR$/xóa phần tử khỏi mảng.php" />
       </list>
     </option>
@@ -199,13 +110,33 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bai2Mảng và hàm trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai2Mảng và hàm trong PHP" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai2Mảng và hàm trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai2Mảng và hàm trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt1danh sách khách hàng và xóa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="bai2Mảng và hàm trong PHP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="bai2Mảng và hàm trong PHP" type="462c0819:PsiDirectoryNode" />
+              <item name="bt3Tìm giá trị nhỏ nhất trong mảng sử dụng phương thức" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai5Advanced Object Oriented Design" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -250,16 +181,20 @@
       <workItem from="1557105039242" duration="10255000" />
       <workItem from="1557191909948" duration="407000" />
       <workItem from="1557192655844" duration="643000" />
+      <workItem from="1557211734211" duration="3617000" />
+      <workItem from="1557216411196" duration="7049000" />
+      <workItem from="1557277840357" duration="608000" />
+      <workItem from="1557308433378" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36150000" />
+    <option name="totallyTimeSpent" value="47475000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20877458" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -305,25 +240,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt3Tìm giá trị nhỏ nhất trong mảng sử dụng phương thức/baitaptimgiatrinhonhatmangbangphuongthuc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="61" selection-start-line="25" selection-start-column="61" selection-end-line="25" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/text.php" />
+    <entry file="file://$PROJECT_DIR$/bt1danh sách khách hàng và xóa/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/xóa phần tử khỏi mảng.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="408">
+          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xóa phần tử khỏi mảng/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -372,10 +310,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/đếm số lần xuất hiện của ký tự trong chuỗi.php">
+    <entry file="file://$PROJECT_DIR$/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="29" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt3Tìm giá trị nhỏ nhất trong mảng sử dụng phương thức/baitaptimgiatrinhonhatmangbangphuongthuc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="32" lean-forward="true" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>

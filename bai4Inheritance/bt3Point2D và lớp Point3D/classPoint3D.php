@@ -3,16 +3,16 @@
 class Point3D extends Point2D
 {
     public $z;
-    public function Point3D($x,$y,$z){
+   public function Point3D($x,$y,$z){
         parent::Point2D($x,$y);
         $this->z=$z;
     }
-    public function getz(){
-        return $this->z;
-    }
-    public function setz($z){
-        $this->z=$z;
-    }
+//    public function getz(){
+//        return $this->z;
+//    }
+//    public function setz($z){
+//        $this->z=$z;
+//    }
     public function setXYZ($x,$y,$z){
         parent::setXY($x,$y){
         $this->z = $z

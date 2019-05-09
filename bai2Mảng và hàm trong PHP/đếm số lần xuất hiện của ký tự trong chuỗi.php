@@ -33,8 +33,6 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         echo "ki tu ".$kitu." khong xuat hien trong chuoi ".$chuoikitu;
     }
 }
-
-
 ?>
 
 </body>

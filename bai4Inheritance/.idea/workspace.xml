@@ -2,68 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="942c78c1-1e4b-439c-ae29-ca25d4faf6de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/chuyndoitien.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/indextext.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/maytinh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/songuyento.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/vehinh.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/welcome.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/BtSumDuogcheo.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt5Tinh tổng các số ở 1 cột/SumNumber.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/textfile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/ClassUser.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/HTMLand Script.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/textClassAdmin.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của ArrayList/BTMyListText.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTMyLinkedList.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTNode.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/BT.Triển khai các phương thức của LinkedList/BTlinkedListMain.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/RadomNumber.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/TextFormPost.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/randomNumber.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bai6 Array List/textupload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh3danhsachkhachhang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/thuchanh4ungdungtudien.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai1Tổng quan ứng dụng Web PHP/ungdungFuture ValueCalculator.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Interface_Abstracs.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/Circle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/Cylinder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/Square.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/classShape.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testClassShape/rectangle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/textAbstTrack/GeometricObj.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/GopMang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/arraymin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt1danh sách khách hàng và xóa/locdanhsachkhachhang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/bt4Tìm phần tử lớn nhất trong mảng hai chiều/timmaxtrongmang2chieu.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/btTrang đăng ký người dùng/baitaptangdangkynguoidung.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/tổng các số ở 1 cột xác định.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/xóa phần tử khỏi mảng.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai2Mảng và hàm trong PHP/đếm số lần xuất hiện của ký tự trong chuỗi.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai3Lớp và đối tượng trong PHP/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../bai4/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai4/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Point2D_3DPrivate.php" beforeDir="false" afterPath="$PROJECT_DIR$/Point2D_3DPrivate.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/classTriangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/classTriangle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/CylinderBT.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/Cylinder.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/classCircleBT_Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/classCircle.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/indexCircleBT.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt2Circle và lớp Cylinder/indexCircleBT.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt1các đối tượng hình học/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1các đối tượng hình học/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt1các đối tượng hình học/Cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1các đối tượng hình học/Cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt1các đối tượng hình học/Rectangle.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1các đối tượng hình học/Rectangle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt1các đối tượng hình học/indexShape.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1các đối tượng hình học/indexShape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bt1các đối tượng hình học/square.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt1các đối tượng hình học/square.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt4Point và MoveablePoint/btclassMoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt4Point và MoveablePoint/classMoveablePoint.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bt4Point và MoveablePoint/btclassPoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt4Point và MoveablePoint/classPoint.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/Laravel" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../bai5Advanced Object Oriented Design/bt3 Triển khai interface Resizeable cho các lớp hình học/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../baitapdocsothanhchu.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh1ungdunghienthitime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh2chcnangdangnhap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh3danhsachkhachhang.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../thuchanh4ungdungtudien.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,37 +34,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classPoint.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classMoveablePoint.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+            <state relative-caret-position="340">
+              <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -112,8 +45,53 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="163">
-              <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+            <state relative-caret-position="85">
+              <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/textAbstTrack/GeometricObj.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testClassShape/rectangle.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Point2D_3DPrivate.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Interface_Abstracs.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="663">
+              <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -128,10 +106,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Point2D_3DPrivate.php">
+        <entry file="file://$PROJECT_DIR$/bt2Circle và lớp Cylinder/indexCircleBT.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
+            <state relative-caret-position="187">
+              <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
             </state>
           </provider>
         </entry>
@@ -140,16 +118,7 @@
         <entry file="file://$PROJECT_DIR$/bt2Circle và lớp Cylinder/classCircle.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
-              <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -192,20 +161,36 @@
         <option value="$PROJECT_DIR$/bt2Circle và lớp Cylinder/indexCircleBT.php" />
         <option value="$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php" />
         <option value="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php" />
-        <option value="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php" />
         <option value="$PROJECT_DIR$/Point2D_3DPrivate.php" />
         <option value="$PROJECT_DIR$/bt4Point và MoveablePoint/classMoveablePoint.php" />
         <option value="$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php" />
+        <option value="$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/classTriangle.php" />
+        <option value="$PROJECT_DIR$/bt1các đối tượng hình học/Rectangle.php" />
+        <option value="$PROJECT_DIR$/bt1các đối tượng hình học/Circle.php" />
+        <option value="$PROJECT_DIR$/bt1các đối tượng hình học/Cylinder.php" />
+        <option value="$PROJECT_DIR$/testClassShape/classShape.php" />
+        <option value="$PROJECT_DIR$/testClassShape/rectangle.php" />
+        <option value="$PROJECT_DIR$/testClassShape/Cicle.php" />
+        <option value="$PROJECT_DIR$/bt1các đối tượng hình học/square.php" />
+        <option value="$PROJECT_DIR$/testClassShape/Square.php" />
+        <option value="$PROJECT_DIR$/testClassShape/Cylinder.php" />
+        <option value="$PROJECT_DIR$/testClassShape/Circle.php" />
+        <option value="$PROJECT_DIR$/bt1các đối tượng hình học/indexShape.php" />
+        <option value="$PROJECT_DIR$/testClassShape/index.php" />
+        <option value="$PROJECT_DIR$/Interface_Abstracs.php" />
+        <option value="$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php" />
+        <option value="$PROJECT_DIR$/textAbstTrack/GeometricObj.php" />
       </list>
     </option>
   </component>
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="610" />
-    <option name="width" value="753" />
-    <option name="height" value="735" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="403" />
+    <option name="y" value="11" />
+    <option name="width" value="786" />
+    <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -213,6 +198,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -220,21 +206,15 @@
               <item name="bai4Inheritance" type="b2602c69:ProjectViewProjectNode" />
               <item name="bai4Inheritance" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bai4Inheritance" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bai4Inheritance" type="462c0819:PsiDirectoryNode" />
-              <item name="bt4Point và MoveablePoint" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bai5Advanced Object Oriented Design" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -270,18 +250,20 @@
       <workItem from="1554773001471" duration="59000" />
       <workItem from="1554773123221" duration="467000" />
       <workItem from="1554861834176" duration="5747000" />
-      <workItem from="1557200175425" duration="3600000" />
+      <workItem from="1557200175425" duration="4336000" />
+      <workItem from="1557211127309" duration="604000" />
+      <workItem from="1557278905342" duration="10195000" />
+      <workItem from="1557297827109" duration="5713000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45056000" />
+    <option name="totallyTimeSpent" value="62304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22768533" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,7 +284,7 @@
       <window_info anchor="right" id="Database" order="3" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09984872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21860817" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -345,58 +327,136 @@
     <entry file="file://$PROJECT_DIR$/classPoint2D.php" />
     <entry file="file://$PROJECT_DIR$/bt1/classShape.php" />
     <entry file="file://$PROJECT_DIR$/bt1/Circle.php" />
-    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/square.php">
+    <entry file="file://$PROJECT_DIR$/Thiết kế và triển khai lớp Triangle/classTriangle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        <state relative-caret-position="204">
+          <caret line="12" column="70" selection-start-line="12" selection-start-column="70" selection-end-line="12" selection-end-column="70" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/classShape.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/indexShape.php">
+    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classMoveablePoint.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="49" lean-forward="true" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+        <state relative-caret-position="170">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/Rectangle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        <state relative-caret-position="357">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/Cylinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClassShape/classShape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/Circle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="2" lean-forward="true" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        <state relative-caret-position="51">
+          <caret line="3" column="31" lean-forward="true" selection-start-line="3" selection-start-column="31" selection-end-line="3" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/Cylinder.php">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/testClassShape/Circle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="37" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClassShape/Cylinder.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="25" column="54" selection-start-line="25" selection-start-column="54" selection-end-line="25" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClassShape/Square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="32" lean-forward="true" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/square.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/classShape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classPoint.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt1các đối tượng hình học/indexShape.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClassShape/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testClassShape/rectangle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt2Circle và lớp Cylinder/indexCircleBT.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="187">
+          <caret line="11" column="59" lean-forward="true" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/indexPoint2D_point3D.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" lean-forward="true" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt2Circle và lớp Cylinder/classCircle.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -407,45 +467,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint2D.php">
+    <entry file="file://$PROJECT_DIR$/bt2Circle và lớp Cylinder/classCircle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="31" column="74" selection-start-line="31" selection-start-column="74" selection-end-line="31" selection-end-column="74" />
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bt3Point2D và lớp Point3D/classPoint3D.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="163">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="85">
+          <caret line="5" column="37" lean-forward="true" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Point2D_3DPrivate.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
+        <state relative-caret-position="503">
           <caret line="60" column="32" selection-start-line="60" selection-start-column="32" selection-end-line="60" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classPoint.php">
+    <entry file="file://$PROJECT_DIR$/Interface_Abstracs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        <state relative-caret-position="663">
+          <caret line="44" column="7" lean-forward="true" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/indexclassPoint_MoveablePoint.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bt4Point và MoveablePoint/classMoveablePoint.php">
+    <entry file="file://$PROJECT_DIR$/textAbstTrack/GeometricObj.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="24" selection-start-line="4" selection-start-column="24" selection-end-line="4" selection-end-column="24" />
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
         </state>
       </provider>
     </entry>

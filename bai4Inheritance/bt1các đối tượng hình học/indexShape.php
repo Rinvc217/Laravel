@@ -17,6 +17,6 @@ echo "Rectangle area: " . $rectangle->calculateArea() . "<br/>";
 echo "Rectangle perimeter: " . $rectangle->calculatePerimeter() . "<br/>";
 echo "<br/>";
 $square = new Square('Square 01', 4 , 4, 4);
-echo "Rectangle area: " . $square->calculateArea() . "<br/>";
-echo "Rectangle perimeter: " . $square->calculatePerimeter() . "<br/>";
+echo "Square area: " . $square->calculateArea() . "<br/>";
+echo "Square perimeter: " . $square->calculatePerimeter() . "<br/>";
 ?>
